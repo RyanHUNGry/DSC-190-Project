@@ -1,3 +1,4 @@
 data/higgs-social_network.edgelist.gz
 .DS_Store
 data/.DS_Store
+processed/SEAL_train_data.pt
